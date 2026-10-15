@@ -1,0 +1,6 @@
+{
+  "name": "LastMile AI - Nigeria's Address Intelligence Network",
+  "description": "Address intelligence and delivery coordination platform powered by Nigeria's official 11-character digital postcode infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
